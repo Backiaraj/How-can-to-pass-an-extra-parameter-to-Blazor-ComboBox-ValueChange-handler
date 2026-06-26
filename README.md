@@ -1,4 +1,4 @@
-# Blazor ComboBox — Pass Extra Parameters to ValueChange Handler
+# Blazor ComboBox - Pass Extra Parameters to ValueChange Handler
 
 A Blazor sample demonstrating how to pass additional parameters to the `ValueChange` event handler of [Blazor ComboBox](https://www.syncfusion.com/blazor-components/blazor-combobox), enabling context-aware event handling with multiple ComboBox instances.
 
