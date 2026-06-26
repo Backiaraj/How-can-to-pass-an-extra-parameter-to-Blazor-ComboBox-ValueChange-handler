@@ -29,7 +29,7 @@ The sample includes two ComboBox instances bound to the same data source, each w
 
 ```bash
 git clone https://github.com/SyncfusionExamples/How-can-to-pass-an-extra-parameter-to-Blazor-ComboBox-ValueChange-handler.git
-cd PassParameterToComboBoxSample
+cd How-can-to-pass-an-extra-parameter-to-Blazor-ComboBox-ValueChange-handler
 ```
 
 ### Run with Visual Studio
